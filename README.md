@@ -2,7 +2,7 @@
 ## 🚗 Car-Data-Exploratory-Analysis
 
 # 2. Brief Overview:
-This repository contains an in-depth Exploratory Data Analysis (EDA) performed on a used car sales dataset (car_data.csv). The project aims to understand the dataset's characteristics, identify patterns, uncover relationships between features, detect anomalies, and derive valuable insights that can inform future data modeling tasks, such as price prediction.
+This repository contains an in-depth Exploratory Data Analysis (EDA) performed on a used car sales dataset (car_data.csv). The assignment aims to understand the dataset's characteristics, identify patterns, uncover relationships between features, detect anomalies, and derive valuable insights that can inform future data modeling tasks, such as price prediction.
 
 # 3. Features & Analysis Covered:
 ## Dataset Overview:
@@ -11,7 +11,7 @@ Identified data types for each column.
 ## Data Quality & Cleaning:
 Checked for and quantified missing values across the dataset.
 Identified and counted duplicate records.
-Categorical Feature Analysis:
+## Categorical Feature Analysis:
 Explored unique values within Fuel_Type, Seller_Type, and Transmission columns.
 Counted the number of cars for each Fuel_Type.
 Analyzed the distribution of cars by Seller_Type (individual vs. dealers).
@@ -40,7 +40,7 @@ Counted cars manufactured before 2010.
 Identified the year with the highest number of car listings.
 ## Correlation Analysis:
 Calculated the correlation between Selling_Price, Present_Price, and Kms_Driven.
-Percentage Analysis:
+## Percentage Analysis:
 Determined the percentage of cars using diesel, petrol, and CNG fuel types.
 
 # 4. Dataset:
