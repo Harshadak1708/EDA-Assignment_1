@@ -1,5 +1,5 @@
 # 1. Assignment Title:
-🚗 Car-Data-Exploratory-Analysis
+## 🚗 Car-Data-Exploratory-Analysis
 
 # 2. Brief Overview:
 This repository contains an in-depth Exploratory Data Analysis (EDA) performed on a used car sales dataset (car_data.csv). The project aims to understand the dataset's characteristics, identify patterns, uncover relationships between features, detect anomalies, and derive valuable insights that can inform future data modeling tasks, such as price prediction.
