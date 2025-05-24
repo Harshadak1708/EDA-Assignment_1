@@ -4,11 +4,20 @@
 # 2. Brief Overview:
 This repository contains an in-depth Exploratory Data Analysis (EDA) performed on a used car sales dataset (car_data.csv). The assignment aims to understand the dataset's characteristics, identify patterns, uncover relationships between features, detect anomalies, and derive valuable insights that can inform future data modeling tasks, such as price prediction.
 
-# 3. Features & Analysis Covered:
+# 3. Technologies Used:
+Python
+Pandas (for data manipulation and analysis)
+NumPy (for numerical operations)
+Jupyter Notebook (for interactive development and documentation)
+
+# 4. Dataset:
+The dataset used for this analysis is car_data.csv. It contains information about various used cars, including their selling price, present price, kilometers driven, fuel type, seller type, transmission, and more.
+
+# 5. Features & Analysis Covered:
 ## Dataset Overview:
 Determined the total number of rows and columns.
 Identified data types for each column.
-## Data Quality & Cleaning:
+## Data Cleaning:
 Checked for and quantified missing values across the dataset.
 Identified and counted duplicate records.
 ## Categorical Feature Analysis:
@@ -43,12 +52,4 @@ Calculated the correlation between Selling_Price, Present_Price, and Kms_Driven.
 ## Percentage Analysis:
 Determined the percentage of cars using diesel, petrol, and CNG fuel types.
 
-# 4. Dataset:
-The dataset used for this analysis is car_data.csv. It contains information about various used cars, including their selling price, present price, kilometers driven, fuel type, seller type, transmission, and more.
-
-# 5. Technologies Used:
-Python
-Pandas (for data manipulation and analysis)
-NumPy (for numerical operations)
-Jupyter Notebook (for interactive development and documentation)
 
